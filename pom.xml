@@ -8,6 +8,6 @@
 	<name>truckmanagement</name>
 	<version>1</version>
 	<modules>
-		<module>source/kgcapplication</module>
+		<module>source/kgcappliction</module>
 	</modules>
 </project>
