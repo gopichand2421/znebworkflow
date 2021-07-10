@@ -6,6 +6,7 @@
 	<groupId>com.zneb.workflow</groupId>
 	<artifactId>truckmanagement</artifactId>
 	<name>truckmanagement</name>
+	<version>1</version>
 	<modules>
 		<module>source/kgcapplication</module>
 	</modules>
