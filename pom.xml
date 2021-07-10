@@ -5,6 +5,7 @@
 	
 	<groupId>com.zneb.workflow</groupId>
 	<artifactId>truckmanagement</artifactId>
+	<packaging>pom</packaging>
 	<name>truckmanagement</name>
 	<version>1</version>
 	<modules>
